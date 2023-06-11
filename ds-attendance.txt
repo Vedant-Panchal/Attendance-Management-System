@@ -1,0 +1,76 @@
+	CURRENT TIME : Sun Jun 04 22:50:49 2023
+
+	+---------+---------------------------+----------------------------------+
+	| Roll No |        Student Name       |      Attendance                  |
+	+---------+---------------------------+----------------------------------+
+	| 1       |         BABARIYA PARTH 		            P 
+	| 2       |         BHIMANI DHRUVI 		            P 
+	| 4       |       BHUPTANI HITARTH 		            P 
+	| 5       |           BORWAL REENA 		            P 
+	| 6       |          CHANDRALA MIT 		            P 
+	| 7       |    CHAUDHARI ANIRUDDHA 		            P 
+	| 8       |  CHAVDA HARIKRISHNASINH		            P 
+	| 9       |      RAI UJJWALUTKARSH 		            P 
+	| 10      |            DANGI PREET 		            P 
+	| 11      |              DAVE ISHA 		            P 
+	| 12      |              PATEL HET 		            P 
+	| 13      |         DEVALIYA RICHA 		            P 
+	| 14      |          DEVALIYA RIYA 		            P 
+	| 15      |       DHADHAL SATYAJIT 		            P 
+	| 16      |          GADHAVI DHRUV 		            P 
+	| 17      |            ASNANI MEET 		            P 
+	| 18      |           GANDHI TAHER 		            P 
+	| 19      |       GONDALIYA PRINCE 		            P 
+	| 20      |         GORAKHIA APARNA		            P 
+	| 21      |          HEDAOO JAYESH 		            P 
+	| 22      |           JADAV NISARG 		            P 
+	| 23      |           JAIN HARSHIT 		            P 
+	| 24      |           JHAVERI ANAI 		            P 
+	| 25      |             KANSARA OM 		            P 
+	| 26      |           KHATRI SAANVI		            P 
+	| 27      |          KOTADIA AARAV 		            P 
+	| 28      |        KUSHWAH LAKSHYA 		            P 
+	| 29      |         LIMBACHIYA HET 		            P 
+	| 30      |       MAHESURIYA FENIL 		            P 
+	| 31      |     MALAKIYA MILANBHAI 		            P 
+	| 32      |          MALI VISHAKHA 		            P 
+	| 33      |       MANDALIYA JAYDIP 		            P 
+	| 34      |            MANSURI RUHMAN            P 
+	| 35      |          MARU DEVANSHU 		            P 
+	| 36      |          MATHIA JAINIL 		            P 
+	| 37      |         MAVANI DHARMIK 		            P 
+	| 38      |           MEHTA MANTRA 		            P 
+	| 39      |         MESARIYA PARTH 		            P 
+	| 40      |           MODI KRISHNA 		            P 
+	| 41      |        NAGDUKIYA MANAV 		            P 
+	| 42      |             NAIK DHYEY 		            P 
+	| 43      |         NANDANIYA UDAY 		            P 
+	| 44      |          PADMANI RONAK 		            P 
+	| 45      |         PANCHAL VEDANT 		            P 
+	| 46      |         PANDYA MANTHAN 		            P 
+	| 47      |           PAREKH SHREY 		            P 
+	| 48      |          PARMAR PRAGNA 		            P 
+	| 49      |             PATEL ANSH 		            P 
+	| 50      |            PATEL DHRUV 		            P 
+	| 51      |             PATEL DIYA 		            P 
+	| 52      |          PATEL HITARTH 		            P 
+	| 53      |          PATEL MAHARSHI		            P 
+	| 54      |             PATEL MAHI 		            P 
+	| 55      |            PATEL PARTH 		            P 
+	| 56      |            PATEL TASHVI		            P 
+	| 57      |      PATEL VANDANKUMAR 		            P 
+	| 58      |       PRAJAPATI ADITYA 		            P 
+	| 59      |       PRAJAPATI NISHANT		            P 
+	| 60      |           RATHOD ATHIYA		            P 
+	| 61      |      RUPAWALA MOHAMMED 		            P 
+	| 62      |    SALUJA AMANDEEPSINGH		            P 
+	| 63      |          SARAIYA KIRTAN		            P 
+	| 64      |              SHAH JIYA 		            P 
+	| 65      |            SHAH MRUNAL 		            P 
+	| 66      |          SHAH SHASHWAT 		            P 
+	| 67      |        SUTARIA MITARTH 		            P 
+	| 68      |     THUMMAR KARANKUMAR 		            P 
+	| 69      |            TRIVEDI ARJUN	            P 
+	| 70      |          UNIYAL SIDDHANT	            P 
+	| 71      |             VAGHELA SUMIT            P 
++-------+--------------------------------+-------------------+-------------+
